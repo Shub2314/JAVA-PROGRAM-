@@ -1,0 +1,83 @@
+Unit - I Basic Syntactical Constructs in Java
+ 1.1 Java features and the Java programming
+ environment
+ 1.2 Defining a class, creating object, accessing class
+ members
+ 1.3 Java tokens and data types, symbolic constant,
+ scope of variable, typecasting, and different types of
+ operators and expressions, decision making and
+ looping statements
+ 1.4 Arrays, strings, string buffer classes, vectors,
+ wrapper classes
+ 1.5 Constructors and methods, types of constructors,
+ method and constructor overloading, nesting of
+ methods, command line arguments, garbage
+ collection, visibility control: public, private,
+ protected, default, private protected
+
+Unit - II Inheritance, Interface and Packages
+ 2.1 Inheritance: concept of inheritance , types of
+ Inheritance: single inheritance, multilevel
+ inheritance, hierarchical inheritance, method
+ overriding, final variables, final methods, use of
+ super, abstract methods and classes
+ 2.2 Interfaces: Define interface, implementing
+ interface, accessing interface variables and
+ methods, extending interfaces
+ 2.3 Package: Define package, types of package,
+ naming and creating package, accessing package,
+ import statement, static import, adding class and
+ interfaces to a package
+
+ Unit - III Exception Handling and Multithreading
+ 3.1 Errors and Exception: Types of errors and
+ exceptions, try and catch statement, throws and
+ finally statement, built-in exceptions, throwing our
+ own exception
+ 3.2 Multithreaded programming : creating a thread:
+ By extending to thread class and by implementing
+ runnable Interface, Life cycle of thread: Thread
+ methods, thread exceptions, thread priority and
+ methods, synchronization
+
+Unit - IV Event handling using Abstract Window
+ Toolkit (AWT) & Swings Components
+ 4.1 Component, container, window, frame, panel,
+ use of AWT controls: labels, buttons, checkbox,
+ checkbox group, textfield, textarea
+ 4.2 Use of layout managers: flowLayout,
+ borderLayout, gridLayout, gridBagLayout,
+ menubars, menus, file dialog
+ 4.3 Introduction to swing: Swing features,
+ difference between AWT and Swing.
+ 4.4 Swing components: Icons and Labels, TextField,
+ ComboBox, Button, Checkbox, RadioButton
+ 4.5 Advanced Swing Components: Tabbed Panes,
+ Scroll Panes, Trees, Tables, Progress bar, tool tips
+ 4.6 Introduction to Event Handling: The delegation
+ Event Model: Event sources, Event listeners
+ 4.7 Event classes: The action event class, the Item
+ event class, the Key event class, the mouse event
+ class, text event
+ 4.8 Event listener interfaces: ActionListener ,
+ ItemListener , KeyListener , MouseListener ,
+ MouseMotion , TextListener
+
+Unit - V Basics of Network Programming
+ 5.1 Socket Overview: Client/Server , reserved
+ Sockets , proxy servers , Internet Addressing
+ 5.2 Java and the Net: The networking classes and
+ interfaces, InetAddress : Factory Methods , Instance
+ Methods
+ 5.3 TCP/IP Client and Server Sockets, datagram
+ sockets, datagram packets
+ 5.4 The URL Class, URLConnection class
+
+Unit - VI Interacting with Database
+ 6.1 Introduction to JDBC, ODBC
+ 6.2 JDBC architecture: Two tier and three tier
+ models
+ 6.3 Types of JDBC drivers, Class Class ,
+ DriverManager class, Connection interface,
+ Statement interface, PreparedStatement interface,
+ ResultSet Interface
